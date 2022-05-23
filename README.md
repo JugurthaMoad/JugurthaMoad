@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JugurthaMoad
-- 👀 I’m interested in react js 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning NodeJs, React Native, 
 - 💞️ I’m looking to collaborate on react js projects
 - 📫 How to reach me moadjugurtha@gmail.com
 
