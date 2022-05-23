@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JugurthaMoad
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development, ReactJs. 
 - 🌱 I’m currently learning NodeJs, React Native, 
 - 💞️ I’m looking to collaborate on react js projects
 - 📫 How to reach me moadjugurtha@gmail.com
