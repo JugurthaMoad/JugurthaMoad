@@ -7,5 +7,5 @@ I enjoy learning new things and solve problems related to computer science.
   
   
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,git,html,css,js,react,nodejs,tailwind,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,git,html,css,js,ts,react,nodejs,tailwind,figma&theme=light)](https://skills.thijs.gg)
 
