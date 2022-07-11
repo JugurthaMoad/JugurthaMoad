@@ -1,11 +1,8 @@
 <h2>Hi :blush:,</h2>
-My name is Jugurtha Moad ,a web developer from France. <br /> 
-I love creating web applications. I'm using ReactJS and React Native for the Front End. NodeJs fort the Back End.
-I enjoy learning new things and solve problems related to computer science.
+Hello! My name is Jugurtha Moad. I am passionate about web development especially Front-End web development, I enjoy creating things that live on the internet. I am always learning new techniques and technologies that will allow me to write clean, reusable code and improve performance. My interest in web development started when I discovered React Js.
+I really enjoy reading books " Personal Development, investment ..." and play some nice guitar tunes.
   <br />
-  <h2>My Skills : </h2> 
-  
-  
+  I’m a web developer specializing in building (and occasionally designing) exceptional digital experiences and working with technologies like :
 
 [![My Skills](https://skills.thijs.gg/icons?i=c,git,html,css,js,ts,react,nodejs,tailwind,svelte,figma&theme=light)](https://skills.thijs.gg)
 
