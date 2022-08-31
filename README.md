@@ -6,3 +6,5 @@ I really enjoy reading books " Personal Development, investment ..." and play so
 
 [![My Skills](https://skills.thijs.gg/icons?i=c,git,html,css,js,ts,react,nodejs,tailwind,svelte,heroku,vscode,webpack,react,figma&theme=light)](https://skills.thijs.gg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JugurthaMoad)](https://github.com/anuraghazra/github-readme-stats)
+
