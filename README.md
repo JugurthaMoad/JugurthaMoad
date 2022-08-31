@@ -4,5 +4,5 @@ I really enjoy reading books " Personal Development, investment ..." and play so
   <br />
   I’m a web developer specializing in building (and occasionally designing) exceptional digital experiences and working with technologies like :
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,git,html,css,js,ts,react,nodejs,tailwind,svelte,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,git,html,css,js,ts,react,nodejs,tailwind,svelte,heroku,vscode,webpack,react,figma&theme=light)](https://skills.thijs.gg)
 
