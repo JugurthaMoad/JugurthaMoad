@@ -1,10 +1,17 @@
-<h2>Hi :blush:,</h2>
-Hello! My name is Jugurtha Moad. I am passionate about web development especially Front-End web development, I enjoy creating things that live on the internet. I am always learning new techniques and technologies that will allow me to write clean, reusable code and improve performance. My interest in web development started when I discovered React Js.
-I really enjoy reading books " Personal Development, investment ..." and play some nice guitar tunes.
+<h2>Bonjour :blush:,</h2>
+My name is Jugurtha Moad, and I am <span className="tech">front-end</span> developer with an interest in back-end development based in France.
+<br /><br/>
+When I am not busy building innovative apps and websites, you can find me exploring the beautiful French countryside on my bike, or curled up with a good book on personal development. 
+As a musician, I also enjoy playing guitar to relax and unwind. 
+<br />
+<br />
+My love of personal development and music has taught me the importance of creativity, communication, and collaboration - qualities that I bring to every project I work on.
   <br />
-  I’m a web developer specializing in building (and occasionally designing) exceptional digital experiences and working with technologies like :
+  <br />
+I am currently working with  :<br />
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,git,html,css,js,ts,react,nodejs,tailwind,svelte,heroku,vscode,webpack,react,figma&theme=light)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,nodejs,tailwind,svelte,git,vscode,webpack,vite,figma&theme=light)](https://skills.thijs.gg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JugurthaMoad)](https://github.com/anuraghazra/github-readme-stats)
 
