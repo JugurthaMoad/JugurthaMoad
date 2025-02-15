@@ -1,17 +1,36 @@
-<h2>Bonjour :blush:,</h2>
-My name is Jugurtha Moad, and I am <span className="tech">front-end</span> developer with an interest in back-end development based in France.
-<br /><br/>
-When I am not busy building innovative apps and websites, you can find me exploring the beautiful French countryside on my bike, or curled up with a good book on personal development. 
-As a musician, I also enjoy playing guitar to relax and unwind. 
-<br />
-<br />
-My love of personal development and music has taught me the importance of creativity, communication, and collaboration - qualities that I bring to every project I work on.
-  <br />
-  <br />
-I am currently working with  :<br />
+## 👋 Bonjour, I'm Jugurtha Moad!
+
+I'm a **Full-Stack JavaScript Developer** passionate about building **scalable and high-performance applications**.  
+I specialize in **Next.js, React, React Native, and Node.js**, with a strong focus on **performance, security, and best DevOps practices**.  
+
+### 🛠️ **Tech Stack & Expertise**  
+
+#### **🚀 Front-end**  
+- **Frameworks:** Next.js, React, React Native  
+- **Styling:** Tailwind CSS, ShadCN/UI  
+- **State Management:** React Context, Zustand  
+
+#### **🖥️ Back-end**  
+- **Server-side Development:** Node.js, Express, NestJS  
+- **Databases:** PostgreSQL, MongoDB  
+- **API Development:** REST, GraphQL  
+
+#### **☁️ Cloud & DevOps**  
+- **Cloud Platforms:** AWS (S3, EC2, Lambda), DigitalOcean  
+- **Server Management:** VPS, Nginx, PM2, UFW, Fail2Ban  
+- **Deployment & Monitoring:** Docker, CI/CD, Reverse Proxy  
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,nodejs,tailwind,svelte,git,vscode,webpack,vite,figma&theme=light)](https://skills.thijs.gg)
+### 📊 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JugurthaMoad&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JugurthaMoad&layout=compact&theme=tokyonight)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JugurthaMoad)](https://github.com/anuraghazra/github-readme-stats)
+### 📫 **Get in Touch**
+📩 **Email:** moadjugurtha.freelancer@gmail.com
 
+<!-- 🚧 Autres contacts masqués pour le moment -->
+<!-- - **Portfolio:** [Lien vers ton site] -->
+<!-- - **LinkedIn:** [Lien] -->
+<!-- - **Twitter/X:** [Lien] -->
+
+✨ *Always open to collaborations & freelance opportunities!* 🚀
